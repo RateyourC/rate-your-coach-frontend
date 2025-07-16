@@ -1,4 +1,1 @@
-
-export default function Home() {
-  return <div>Rate Your Coach is up and running.</div>;
-}
+export default function Home() { return <div>Welcome to Rate Your Coach</div>; }
